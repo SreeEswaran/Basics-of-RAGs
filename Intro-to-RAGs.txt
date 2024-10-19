@@ -1,2 +1,2 @@
 The term RAG stands for Retrieval Augmented Generation
-RAGs are basically a question
+RAGs are basically a question-answer systems.
